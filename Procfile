@@ -1,2 +1,2 @@
 # Procfile
-web: ./setup.sh && streamlit run your_app.py
+web: ./setup.sh && streamlit run app.py
