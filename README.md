@@ -19,4 +19,4 @@ Then to run locally,
 
 ## Live App link
 
-[Live App](https://shreyasbgr-pdf-info-extractor-app-streamlit-8ebnwa.streamlit.app/)
+[Live App](https://shreyasbgr-gemini-sql-extractor-app-p4aafr.streamlit.app/)
